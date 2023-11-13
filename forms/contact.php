@@ -7,7 +7,7 @@
   */
 
   // Replace vohi0311@gmail.com with your real receiving email address
-  $receiving_email_address = 'vohi0311@gmail.com';
+  $receiving_email_address = 'hiep.k.vo@student.uts.edu.au';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
